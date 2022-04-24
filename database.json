@@ -1,0 +1,13 @@
+{
+    "dev": {
+
+    },
+    "test": {
+
+    },
+
+    "defaultEnv": "prod",
+    "prod": {
+
+    }
+}
